@@ -24,6 +24,12 @@
     "type": 0
   },
   {
+    "title": "Money Creation",
+    "description": "Money creation, or money issuance, is the process by which the money supply of a country, or of an economic or monetary region is increased. In most modern economies, money creation is controlled by the central banks. The process is often referred to as 'printing' money, although most modern currencies are not actually printed on paper but are digital entries in a database.\n\nMoney issued by central banks is termed 'base money'. Central banks can increase the quantity of base money directly, by engaging in open market operations. However, the majority of the money supply is created by the commercial banking system in the form of bank deposits. Bank loans issued by commercial banks that practice fractional reserve banking expands the quantity of broad money to more than the original amount of base money issued by the central bank.\n\nThe central bank creates new money whenever it is needed, such as when the government wants to spend more money than it has on hand. The central bank also regulates the supply of money in the economy to help maintain price stability. This is typically done through a combination of interest rate adjustments and open market operations, which involve buying and selling government securities to manage the money supply.",
+    "link": "",
+    "type": 0
+  },
+  {
     "title": "Sortition",
     "description": "Not used often in real life, jury duty being an exception, sortition involves taking a few people from a subset of possible voters and having them make the decision on their own. Somewhat like delegation but random from a larger pool, “everyday people”. Why isn’t it more common in blockchain? The jury is out!",
     "link": "https://www.youtube.com/watch?v=qyd7mvQmn5I&t=6295s",
@@ -51,6 +57,12 @@
     "title": "Network Goods",
     "description": "Private goods are rivalrous. Take for example an iPhone: you have to be able to afford it to have it. Public goods are nonrivalrous. Take for example breathing the air: everyone has access to the air regardless of their finances. Network goods get more valuable the more people consume them like open-source software. NFTs fall here. The more attention is given to NFT art, the more value is attributed to it. Inverts scarcity based models by increasing its value the more it is shared. \n\n Lots of love going on in this interlude about different regen orgs supporting each other!",
     "link": "https://www.youtube.com/watch?v=qyd7mvQmn5I&t=2228s",
+    "type": 1
+  },
+  {
+    "title": "Buy One, Give One",
+    "description": "Buy One, Give One (B1G1) is a business model in which a company donates a product or service to a person in need for every product or service purchased by a customer. This approach aims to create a positive social or environmental impact through the sale of consumer products.",
+    "link": "https://www.b1g1.com/",
     "type": 1
   },
   {
